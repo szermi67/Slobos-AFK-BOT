@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "BotAfk123",
+    "password": "B0tAfk1",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "ATERNOSEKSMP-4pv9.aternos.me",
+    "port": 39174,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -28,11 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 5,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "/register B0tAfk1",
+        "/login B0tAfk1",
       ]
     },
     "chat-log": true,
